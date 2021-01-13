@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC65C4FA-1095-4859-8F60-ABD1424793BF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RPS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0 - cc66d13c77808ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ViewController.enemyState.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenguanxiong/Downloads/RPS/RPS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0 - de9a253dfe03591b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ViewController.enemyState.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenguanxiong/Downloads/RPS/RPS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0 - b83bbce31c57405a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ViewController.enemyState.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenguanxiong/Downloads/RPS/RPS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0 - e38cbe0c86d8c397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ViewController.enemyState.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenguanxiong/Downloads/RPS/RPS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0 - 50bcb79cbf66e93e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RPS.ViewController"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenguanxiong/Downloads/RPS/RPS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "58BA94FC-C499-426D-A9A5-7F1F2D6C72E0 - 6819cc3f9b28b3b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RPS.ViewController&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenguanxiong/Downloads/RPS/RPS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
